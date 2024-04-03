@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.Net\\TodoSQLite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|f:\\.net\\todosqlite\\todosqlite\\data\\todoitemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\data\\todoitemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|f:\\.net\\todosqlite\\todosqlite\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|f:\\.net\\todosqlite\\todosqlite\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|f:\\.net\\todosqlite\\todosqlite\\views\\todolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A243E865-5275-42A6-8C15-50CEAB4C0456}|TodoSQLite\\TodoSQLite.csproj|solutionrelative:todosqlite\\views\\todolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemDatabase.cs",
+              "DocumentMoniker": "F:\\.Net\\TodoSQLite\\TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "ToolTip": "F:\\.Net\\TodoSQLite\\TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "RelativeToolTip": "TodoSQLite\\Data\\TodoItemDatabase.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswDkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:28:56.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "F:\\.Net\\TodoSQLite\\TodoSQLite\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Models\\TodoItem.cs",
+              "ToolTip": "F:\\.Net\\TodoSQLite\\TodoSQLite\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoSQLite\\Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:28:48.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "F:\\.Net\\TodoSQLite\\TodoSQLite\\Constants.cs",
+              "RelativeDocumentMoniker": "TodoSQLite\\Constants.cs",
+              "ToolTip": "F:\\.Net\\TodoSQLite\\TodoSQLite\\Constants.cs",
+              "RelativeToolTip": "TodoSQLite\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:28:32.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoListPage.xaml",
+              "DocumentMoniker": "F:\\.Net\\TodoSQLite\\TodoSQLite\\Views\\TodoListPage.xaml",
+              "RelativeDocumentMoniker": "TodoSQLite\\Views\\TodoListPage.xaml",
+              "ToolTip": "F:\\.Net\\TodoSQLite\\TodoSQLite\\Views\\TodoListPage.xaml",
+              "RelativeToolTip": "TodoSQLite\\Views\\TodoListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T03:28:27.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
